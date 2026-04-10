@@ -1,0 +1,13 @@
+Test 1: A == B by logic contents OK
+
+Test 2: A == C by logic contents OK
+
+Test 3: A == D by logic contents OK
+
+File size (logic size and physical size):
+A: logic = 4194305B, physical = 4198400B (8200 blocks 512B)
+A.gz: logic = 4107B, physical = 8192B (16 blocks 512B)
+B: logic = 4194305B, physical = 12288B (24 blocks 512B)
+B.gz: logic = 4107B, physical = 8192B (16 blocks 512B)
+C: logic = 4194305B, physical = 12288B (24 blocks 512B)
+D: logic = 4194305B, physical = 16384B (32 blocks 512B)
